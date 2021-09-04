@@ -1,0 +1,3 @@
+para encode base64
+
+certutil -encode notepad.bin notepad.b64
